@@ -1,0 +1,2 @@
+# ShoppingAppDemo-
+In this demo app, user can login with there credentials based his role related screens will be displayed. All the user can see the list of production on dashboard and he can navigate to the details of all the products. He can add the product into cart and from there he can checkout for added items. He can also see the all the orders placed till now with there respective details.  
